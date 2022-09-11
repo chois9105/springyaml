@@ -1,2 +1,2 @@
 string:
-  test: configClient-dev-changed
+  test: configClient-dev-rabbitMQ
