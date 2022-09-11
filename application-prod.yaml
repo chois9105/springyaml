@@ -1,2 +1,2 @@
 string:
-  test: 'prod-test'
+  test: application-prod
