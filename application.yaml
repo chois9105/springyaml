@@ -1,5 +1,5 @@
 string:
-  test2: 'application-string-test'
+  test: 'application-string-test'
 
 spring:
   rabbitmq: # RabbitMQ 관련 설정
